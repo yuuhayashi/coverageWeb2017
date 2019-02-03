@@ -1,1 +1,17 @@
+{"gmlid":"n6515","idref":"","area":12}
+{"gmlid":"n6517","idref":"","area":12}
+{"gmlid":"n6229","idref":"","area":13}
+{"gmlid":"n6437","idref":"","area":13}
+{"gmlid":"n3053","idref":"","area":14}
 {"gmlid":"n6924","idref":"","area":14}
+{"gmlid":"n1","idref":"","area":26}
+{"gmlid":"n2574","idref":"","area":26}
+{"gmlid":"n2727","idref":"","area":26}
+{"gmlid":"n3580","idref":"","area":26}
+{"gmlid":"n3728","idref":"","area":26}
+{"gmlid":"n4089","idref":"","area":26}
+{"gmlid":"n4092","idref":"","area":26}
+{"gmlid":"n4093","idref":"","area":26}
+{"gmlid":"n4094","idref":"","area":26}
+{"gmlid":"n4098","idref":"","area":26}
+{"gmlid":"n4119","idref":"","area":26}

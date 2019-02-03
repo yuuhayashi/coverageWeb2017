@@ -6,15 +6,15 @@
    "code": 0,
    "name": "全国",
    "denominator": 157,
-   "molecule": 91,
-   "par": 57.96
+   "molecule": 94,
+   "par": 59.87
   }
   ,  {
    "code": 1,
    "name": "北海道",
    "denominator": 16,
-   "molecule": 0,
-   "par": 0.00
+   "molecule": 2,
+   "par": 12.50
   }
   ,  {
    "code": 2,
@@ -69,8 +69,8 @@
    "code": 9,
    "name": "栃木県",
    "denominator": 1,
-   "molecule": 0,
-   "par": 0.00
+   "molecule": 1,
+   "par": 100.00
   }
   ,  {
    "code": 10,
