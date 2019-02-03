@@ -6,8 +6,8 @@
    "code": 0,
    "name": "全国",
    "denominator": 157,
-   "molecule": 92,
-   "par": 58.60
+   "molecule": 91,
+   "par": 57.96
   }
   ,  {
    "code": 1,
@@ -230,8 +230,8 @@
    "code": 32,
    "name": "島根県",
    "denominator": 3,
-   "molecule": 3,
-   "par": 100.00
+   "molecule": 2,
+   "par": 66.67
   }
   ,  {
    "code": 33,

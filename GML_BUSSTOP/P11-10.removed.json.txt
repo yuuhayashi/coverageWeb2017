@@ -1,2 +1,1 @@
-{"gmlid":"n12211","idref":"","area":1}
 {"gmlid":"n6924","idref":"","area":14}
