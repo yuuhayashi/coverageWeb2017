@@ -20,8 +20,8 @@
    "code": 2,
    "name": "青森県",
    "denominator": 4,
-   "molecule": 0,
-   "par": 0.00
+   "molecule": 1,
+   "par": 25.00
   }
   ,  {
    "code": 3,
@@ -216,8 +216,8 @@
    "code": 30,
    "name": "和歌山県",
    "denominator": 1,
-   "molecule": 1,
-   "par": 100.00
+   "molecule": 0,
+   "par": 0.00
   }
   ,  {
    "code": 31,
